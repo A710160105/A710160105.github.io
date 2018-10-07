@@ -1,7 +1,6 @@
 # A710160105.github.io
 TUGAS HALAMAN WEB
 
-# A710160063.github.io
 <html>
 <head>
 <title>biodata</title>
